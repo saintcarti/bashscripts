@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ROJO ='\033[0;31m'
 VERDE ='\033[0;32m'
 AMARILLO ='\033[1;33m'
